@@ -35,6 +35,7 @@ https://writesonic.com/chat
 -Deep Blue
 -Deep Mind
 https://www.deepmind.com/
+-Google Hacking
 -Mindjourney = Imagem
 Discord 
 -OpenAI
@@ -44,6 +45,7 @@ https://playgroundai.com/
 
 Artigo Turing
 https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf
+
 Github 
 do Ensinando Máquinas
 https://github.com/daviduarte/PongAI
@@ -52,10 +54,50 @@ https://github.com/codificando-tech/chess-ai
 do Xadrez Randômico :
 https://github.com/lukasdev/engine-xadrez-randomico
 
----
+Google Hacking : operador:palavra-chave
+
+filetype:
+Mostra somente arquivos tipo pdf
+
+intext:
+Mostra somente páginas que tem a palavra
+
+intitle:
+Mostra somente arquivos que tem o título
+
+inurl:
+Mostra somente URL que tem aquela palavra
+
+site:detran.rj.gov
+Mostra somente coisas daquele domínio/site
+
+Juntando : 
+
+site:detran.rj.gov filetype:pdf 
+Mostra somente arquivos tipo pdf daquele site
+
+site:detran.rj.gov filetype:pdf intext:carteira
+Mostra somente arquivos que tem a palavra carteira em pdf daquele site
+
+Minimax :
+
+Jogos Adversariais : Jogo da Velha, Xadrez, Dama, Go, etc
+Busca sistemática / Força Bruta
+
+Função de Avaliação
+
+Lv 2 Min : -3 5 5 / 1 3 1 / 1 -2 0
+Lv 1 Max :   -3       1       -2
+Lv 0     :            1
+
+ ---
 André Santos
 https://www.youtube.com/watch?v=EYROVhto8F8 = OK ( Aula )
 https://www.youtube.com/watch?v=ZbNiJhpC_nY = Assistindo
+
+*** Canal Código Fácil ***
+Algoritmo Minimax
+https://www.youtube.com/watch?v=aW_a7nsa6BY = OK
 
 Codificando
 https://www.youtube.com/watch?v=sZbwGWuSFwk = OK
@@ -76,13 +118,27 @@ https://www.youtube.com/watch?v=M2PKAHv8jqc = OK
 Pong 
 https://www.youtube.com/watch?v=EPKRQ_o21Q4 = OK
 
+*** Hardware Redes Brasil ***
+Google Hacking
+https://www.youtube.com/watch?v=RehmasZ01_A = OK
+
 Inteligência Artificial
 https://www.youtube.com/watch?v=Gfz6sUDobN4 = OK
 
 Lucas Silvas
 https://www.youtube.com/watch?v=HdGQ5kY_4RM = Assistindo
+
 Mestre GabrielMiguel
 https://www.youtube.com/watch?v=caJDenTIQHU = OK
+
+*** Marciel Dantas ***
+
+Jogo da Velha IA Minimax
+https://www.youtube.com/watch?v=cwzKjFkSyIE = OK
+
+*** Mari C ***
+Avatar Inteligência Artificial
+https://www.youtube.com/watch?v=7wO3YissHEM = OK
 
 Meteoro Brasil 
 https://www.youtube.com/watch?v=Ngdj0BQ6gbo = OK
@@ -104,6 +160,10 @@ https://www.youtube.com/watch?v=ap7qRWbzYbU = Ver outros anteriores
 *** Programar ***
 PacMan
 https://www.youtube.com/watch?v=nmfVHs7PfcU = OK
+
+*** Programando com Roger ***
+Jogo da Velha em Python
+https://www.youtube.com/watch?v=TvjZzo7bR6E = OK Rever futuramente
 
 Prosperidade Digital
 https://www.youtube.com/watch?v=pZkYtH_1n9o = OK
