@@ -1,0 +1,109 @@
+﻿Inteligencia Artificial
+Machine Learning
+Reinforcemente Learning
+
+https://community.openai.com/ – Comunidade OpenAI
+https://www.thegpttimes.com/ – TheGptTimes Escreva uma noticia com 3 tweets.
+https://www.midjourney.com/ – Crie imagens baseadas em texto com essa IA.
+https://stablediffusionweb.com/ – Crie imagens baseadas em texto com essa IA.
+https://codewp.ai/ – Scripts para WordPress
+https://www.sitekick.ai/ – Crie Landpages com IA dizendo como você quer via texto.
+https://humanpal.io/ – Crie Avatares com aparência humana única
+https://contentbot.ai/ – Escreva conteúdos para artigos, anúncios, produtos etc..
+https://lexica.art/ – The Stable Diffusion search engine, crie imagens com base em texto.
+https://civitai.com/ – Custom AI art models
+https://www.synthesia.io/ – Crie um apresentador virtual que narra seu texto pra você.
+https://www.perplexity.ai/ – O Perplexity Ask é alimentado por grandes modelos de linguagem (API OpenAI) e mecanismos de pesquisa, traz resultados de pesquisa.
+https://www.copy.ai/ – Escreva suas copys para blogs, descrições, produtos, anúncios.
+https://infinitycopy.ai/ – Gere textos e imagens com inteligência Artificial.
+https://www.synthesia.io/ – Crie vídeos a partir de texto simples em minutos
+https://brandmark.io/ – designs de cartões de visita, gráficos de mídia social, ícones de aplicativos, cabeçalhos de cartas e muito mais
+https://www.brandcrowd.com/ – Crie um belo logotipo em segundos.
+https://www.gliacloud.com/en/ – Simplesmente converte seu texto em vídeo.
+https://pictory.ai/ – extraindo automaticamente ‘pepitas de ouro’ escondidas nas profundezas de suas gravações de Zoom, Teams e Webinar.
+https://www.veed.io/ – Edição de vídeos usando IA.
+https://voicely.net/ – Transforme texto em voz com IA.
+https://invideo.io/ – Crie vídeos online.
+https://speechtext.ai/ – Transforme seus textos em Áudio.
+
+AlphaGo
+AlphaGoZero
+-ChatGPT
+https://chat.openai.com/
+-ChatSonic
+https://writesonic.com/chat
+-Deep Blue
+-Deep Mind
+https://www.deepmind.com/
+-Mindjourney = Imagem
+Discord 
+-OpenAI
+-PlayGroundAI = Imagem
+https://playgroundai.com/
+-Redes Neurais
+
+Artigo Turing
+https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf
+Github 
+do Ensinando Máquinas
+https://github.com/daviduarte/PongAI
+do Xadrez Codificando :
+https://github.com/codificando-tech/chess-ai
+do Xadrez Randômico :
+https://github.com/lukasdev/engine-xadrez-randomico
+
+---
+André Santos
+https://www.youtube.com/watch?v=EYROVhto8F8 = OK ( Aula )
+https://www.youtube.com/watch?v=ZbNiJhpC_nY = Assistindo
+
+Codificando
+https://www.youtube.com/watch?v=sZbwGWuSFwk = OK
+
+Dalcimar
+https://www.youtube.com/watch?v=isVfQuCzKGY = Assistindo
+
+*** Desenvolvendo Jogos ***
+ChatGPT : C# FlapyBird
+https://www.youtube.com/watch?v=auasWEfWDsg = OK
+
+EduC
+https://www.youtube.com/watch?v=b6RCL0TwTwI = OK ( Aula  )
+
+*** Ensinando Máquinas ***
+Piano Tiles
+https://www.youtube.com/watch?v=M2PKAHv8jqc = OK
+Pong 
+https://www.youtube.com/watch?v=EPKRQ_o21Q4 = OK
+
+Inteligência Artificial
+https://www.youtube.com/watch?v=Gfz6sUDobN4 = OK
+
+Lucas Silvas
+https://www.youtube.com/watch?v=HdGQ5kY_4RM = Assistindo
+Mestre GabrielMiguel
+https://www.youtube.com/watch?v=caJDenTIQHU = OK
+
+Meteoro Brasil 
+https://www.youtube.com/watch?v=Ngdj0BQ6gbo = OK
+
+*** Negócios em Mente ***
+ChatSonic
+https://www.youtube.com/watch?v=IA7luQdrSD0 = OK
+
+Nerdologia
+https://www.youtube.com/watch?v=mhe5e2B9bL8 = OK
+
+Nespol
+https://www.youtube.com/watch?v=bfwCsvOpKEc = OK
+
+*** Os Vilões ***
+Jogo da Velha Final
+https://www.youtube.com/watch?v=ap7qRWbzYbU = Ver outros anteriores
+
+*** Programar ***
+PacMan
+https://www.youtube.com/watch?v=nmfVHs7PfcU = OK
+
+Prosperidade Digital
+https://www.youtube.com/watch?v=pZkYtH_1n9o = OK
