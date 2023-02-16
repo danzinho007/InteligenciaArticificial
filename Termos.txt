@@ -1,0 +1,23 @@
+Termos :
+
+AlphaGo
+AlphaGoZero
+Aprendizado Supervisionado
+Aprendizado Não Supervisionado
+-ChatGPT
+-ChatSonic
+https://writesonic.com/chat
+-Deep Blue
+-Deep Mind
+https://www.deepmind.com/
+-Google Hacking
+-Inteligência Artificial
+Capacidade de um sistema computacional / mecanismo para realizar tarefa que normalmente exigem inteligência humana, como raciocínio, aprendizado e adaptação a novas situações.
+-Machine Learning
+-Mindjourney = Imagem
+Discord 
+-OpenAI
+-PlayGroundAI = Imagem
+https://playgroundai.com/
+-Redes Neurais
+-Reinforcemente Learning

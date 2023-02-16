@@ -1,0 +1,126 @@
+﻿Inteligência Artificial
+
+IA Fraca
+Limitada a realizar tarefas específicas
+
+IA Forte
+Capaz de realizar qualquer tarefa intelectual que um ser humano possa realizar
+
+2017 : Empresa DeepMind desenvolve programa pra jogar Xadrez utilizando Machine Learning, este programa só recebeu as regras do jogo e treinou jogando conta si mesmo várias vezes.
+
+Artigo Turing
+https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf
+
+ Assistindo : 
+ *** Didátia Tech
+ *** Data Science
+
+André Santos
+https://www.youtube.com/watch?v=EYROVhto8F8 = OK ( Aula )
+https://www.youtube.com/watch?v=ZbNiJhpC_nY = Assistindo
+
+*** Canal Código Fácil ***
+Algoritmo Minimax
+https://www.youtube.com/watch?v=aW_a7nsa6BY = OK
+
+Codificando
+https://www.youtube.com/watch?v=sZbwGWuSFwk = OK
+
+Dalcimar
+https://www.youtube.com/watch?v=isVfQuCzKGY = Assistindo
+
+*** Data Science Academy ***
+
+Curso Inteligencia Artificial :
+01 Introdução
+02 Fundamentos de Inteligência Artificial
+03 Fundamentos de Machine Learning
+04 Fundamentos de Deep Learning
+05 Processamento de Linguagem Natural
+06 Visão Computacional
+07 Inteligencia Artificial em Cyber Security
+08 Inteligencia Artificial nos Negócios e Finanças
+09 Capacitação para Trabalhar com Inteligencia Artificial
+10 Avaliação e Certificado de Conclusão
+Avalição Final com 65 questões
+Pra ser aprovado precisa ter 70% de Aproveitamento
+Se não for aprovado vai ter que esperar 30 dias
+Se for reprovado denovo vai ter que esperar 60 dias
+Se for reprovado denovo vai ter que refazer o curso
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c2Unit = OK
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c6Unit = OK
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81ccUnit = OK 
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = O que é IA ?
+
+*** Desenvolvendo Jogos ***
+ChatGPT : C# FlapyBird
+https://www.youtube.com/watch?v=auasWEfWDsg = OK
+
+*** Didática Tech ***
+
+https://didatica.tech/o-que-e-machine-learning-aprendizado-de-maquina/ = OK
+https://didatica.tech/curso-introducao-a-machine-learning/ :
+Curso !!!
+Vídeo 01 = OK
+
+Python para Machine Learning
+https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ- = Futuramente
+
+*** EduC *** 
+https://www.youtube.com/watch?v=b6RCL0TwTwI = OK ( Aula  )
+
+*** Ensinando Máquinas ***
+Piano Tiles
+https://www.youtube.com/watch?v=M2PKAHv8jqc = OK
+Pong 
+https://www.youtube.com/watch?v=EPKRQ_o21Q4 = OK
+
+*** Hardware Redes Brasil ***
+Google Hacking
+https://www.youtube.com/watch?v=RehmasZ01_A = OK
+
+Inteligência Artificial
+https://www.youtube.com/watch?v=Gfz6sUDobN4 = OK
+
+Lucas Silvas
+https://www.youtube.com/watch?v=HdGQ5kY_4RM = Assistindo
+
+Mestre GabrielMiguel
+https://www.youtube.com/watch?v=caJDenTIQHU = OK
+
+*** Marciel Dantas ***
+
+Jogo da Velha IA Minimax
+https://www.youtube.com/watch?v=cwzKjFkSyIE = OK
+
+*** Mari C ***
+Avatar Inteligência Artificial
+https://www.youtube.com/watch?v=7wO3YissHEM = OK
+
+Meteoro Brasil 
+https://www.youtube.com/watch?v=Ngdj0BQ6gbo = OK
+
+*** Negócios em Mente ***
+ChatSonic
+https://www.youtube.com/watch?v=IA7luQdrSD0 = OK
+
+Nerdologia
+https://www.youtube.com/watch?v=mhe5e2B9bL8 = OK
+
+Nespol
+https://www.youtube.com/watch?v=bfwCsvOpKEc = OK
+
+*** Os Vilões ***
+Jogo da Velha Final
+https://www.youtube.com/watch?v=ap7qRWbzYbU = Ver outros anteriores
+
+*** Programar ***
+PacMan
+https://www.youtube.com/watch?v=nmfVHs7PfcU = OK
+
+*** Programando com Roger ***
+Jogo da Velha em Python
+https://www.youtube.com/watch?v=TvjZzo7bR6E = OK Rever futuramente
+
+Prosperidade Digital
+https://www.youtube.com/watch?v=pZkYtH_1n9o = OK

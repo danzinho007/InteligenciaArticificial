@@ -1,0 +1,42 @@
+*** Data Science Academy ***
+
+Curso Inteligencia Artificial :
+01 Introdução
+02 Fundamentos de Inteligência Artificial
+03 Fundamentos de Machine Learning
+04 Fundamentos de Deep Learning
+05 Processamento de Linguagem Natural
+06 Visão Computacional
+07 Inteligencia Artificial em Cyber Security
+08 Inteligencia Artificial nos Negócios e Finanças
+09 Capacitação para Trabalhar com Inteligencia Artificial
+10 Avaliação e Certificado de Conclusão
+Avalição Final com 65 questões
+Pra ser aprovado precisa ter 70% de Aproveitamento
+Se não for aprovado vai ter que esperar 30 dias
+Se for reprovado denovo vai ter que esperar 60 dias
+Se for reprovado denovo vai ter que refazer o curso
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c2Unit = OK
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c6Unit = OK
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81ccUnit = OK 
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = O que é IA ?
+
+
+Inteligência Artificial
+
+-Inteligência Artificial
+Capacidade de um sistema computacional / mecanismo para realizar tarefa que normalmente exigem inteligência humana, como raciocínio, aprendizado e adaptação a novas situações.
+
+IA Fraca
+Limitada a realizar tarefas específicas
+
+IA Forte
+Capaz de realizar qualquer tarefa intelectual que um ser humano possa realizar
+
+IA sendo usada em :
+Reconhecimento de voz
+Tradução de idiomas
+Condução Autônoma de Veículos
+Análise de Dados
+Diagnóstico Médico
+

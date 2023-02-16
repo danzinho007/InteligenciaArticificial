@@ -1,0 +1,24 @@
+Google Hacking : operador:palavra-chave
+
+filetype:
+Mostra somente arquivos tipo pdf
+
+intext:
+Mostra somente páginas que tem a palavra
+
+intitle:
+Mostra somente arquivos que tem o título
+
+inurl:
+Mostra somente URL que tem aquela palavra
+
+site:detran.rj.gov
+Mostra somente coisas daquele domínio/site
+
+Juntando : 
+
+site:detran.rj.gov filetype:pdf 
+Mostra somente arquivos tipo pdf daquele site
+
+site:detran.rj.gov filetype:pdf intext:carteira
+Mostra somente arquivos que tem a palavra carteira em pdf daquele site
