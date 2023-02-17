@@ -1,13 +1,5 @@
 ﻿Inteligência Artificial
 
-IA Fraca
-Limitada a realizar tarefas específicas
-
-IA Forte
-Capaz de realizar qualquer tarefa intelectual que um ser humano possa realizar
-
-2017 : Empresa DeepMind desenvolve programa pra jogar Xadrez utilizando Machine Learning, este programa só recebeu as regras do jogo e treinou jogando conta si mesmo várias vezes.
-
 Artigo Turing
 https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf
 
@@ -124,3 +116,6 @@ https://www.youtube.com/watch?v=TvjZzo7bR6E = OK Rever futuramente
 
 Prosperidade Digital
 https://www.youtube.com/watch?v=pZkYtH_1n9o = OK
+
+Talender
+https://www.youtube.com/watch?v=9nqwVYCxQls = IA Jogando Super Mario Bros

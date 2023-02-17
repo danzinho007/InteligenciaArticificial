@@ -2,7 +2,10 @@ Github
 
 do Ensinando Máquinas
 https://github.com/daviduarte/PongAI
+do Talendar :
+https://github.com/Talendar/super_mario_dqn
 do Xadrez Codificando :
 https://github.com/codificando-tech/chess-ai
 do Xadrez Randômico :
 https://github.com/lukasdev/engine-xadrez-randomico
+

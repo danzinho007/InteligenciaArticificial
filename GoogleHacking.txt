@@ -1,4 +1,5 @@
 Google Hacking : operador:palavra-chave
+Dorks = Operadores de Busca Avançada
 
 filetype:
 Mostra somente arquivos tipo pdf

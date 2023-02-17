@@ -1,23 +1,78 @@
 Termos :
 
-AlphaGo
-AlphaGoZero
-Aprendizado Supervisionado
-Aprendizado Não Supervisionado
+*** Letra A ***
+
+-AlphaGo
+
+-AlphaGoZero
+Predecessor do Alpha Zero que joga Go 
+
+-AlhaZero
+Desenvolvido pela Deep Mind
+Aprendeu a jogar por si só, só falaram quais são as regras
+
+-Apredizado por Reforço : 
+Agente ( Rede Neural ) = Faz alguma coisa 
+Ambiente ( Campo ) = Campo que o Agente atua
+Depois de fazer algo ele observa se ganhou algo, ele ganha uma recompensa, caso erre ele ganha pontuação negativa
+-Aprendizado Supervisionado
+-Aprendizado Não Supervisionado
+
+-Árvore Monte Calor
+Pesquisa de Árvore Monte Carlo ou MCST ( Monte Carlo Tree Search )
+Avalia uma posição gerando um número de sequência de Lances ( playouts ) aleatoriamente a partir daquela posição e fazendo uma média das pontuações finais ( V/E/D ) que estas produzem
+
+*** Letra C ***
+
 -ChatGPT
 -ChatSonic
 https://writesonic.com/chat
+
+*** Letra D ***
+
 -Deep Blue
--Deep Mind
+Supercomputador da IBM
+-Deep Mind = Companhia que pertence ao Google
 https://www.deepmind.com/
+-Deep Q Learning
+-Deep Thought 
+Predecessor do Deep Blue
+
+*** Letra G ***
+
 -Google Hacking
+
+*** Heurística ***
+
+-Heurística
+-Heurística de Contra-Lance
+Alguns lances têm respostas naturais independentemente da posição
+-Heurística de Lance-Mortífero
+Um lance forte noutra variante semelhante é provável que seja forte aqui também
+
 -Inteligência Artificial
 Capacidade de um sistema computacional / mecanismo para realizar tarefa que normalmente exigem inteligência humana, como raciocínio, aprendizado e adaptação a novas situações.
+
+*** Letra M ***
+
 -Machine Learning
 -Mindjourney = Imagem
 Discord 
+-Minimax 
+Algoritmo que escolhe o lance que te dá mais vantagem, independente do lance do oponente
+
 -OpenAI
 -PlayGroundAI = Imagem
 https://playgroundai.com/
--Redes Neurais
+
+*** Letra R ***
+
+-Rede de Valores ( Value Network )
+Rede que avalia posições
+-Redes Neural
 -Reinforcemente Learning
+
+*** Letra S ***
+
+-Stockfish
+Examinou 70 milhões de posições por segundo
