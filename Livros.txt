@@ -1,0 +1,15 @@
+Livros
+ML = Machine Learning
+
+A Brief Introduction to Machine Learning for Engineers = ML
+Cognitive Biases: A Brief Overview of Over 160 Cognitive Biases = ML
+*** Letra D ***
+Data Clustering – Algorithms and Applications = ML
+Deep Learning = ML
+Deep Learning Book = ML
+Dive into Deep Learning = ML
+
+Foundations of Data Science = ML
+Learning Scientific Programming with Python = ML
+Mathematics for Machine Learning = ML
+Pattern Recognition and Machine Learning = ML

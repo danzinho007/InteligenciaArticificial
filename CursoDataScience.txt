@@ -20,7 +20,11 @@ https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteli
 https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c6Unit = OK
 https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81ccUnit = OK 
 https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = O que é IA ?
-
+Como a IA está impactando os Modelos de Negócio = OK
+Quem é o Engenheiro da IA = Ok 
+O que é ChatGPT = OK 
+Dorothy conversando com ChatGPT = OK
+Uma breve História da IA = OK
 
 Inteligência Artificial
 

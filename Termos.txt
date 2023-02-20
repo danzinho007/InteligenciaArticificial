@@ -22,6 +22,12 @@ Depois de fazer algo ele observa se ganhou algo, ele ganha uma recompensa, caso 
 Pesquisa de Árvore Monte Carlo ou MCST ( Monte Carlo Tree Search )
 Avalia uma posição gerando um número de sequência de Lances ( playouts ) aleatoriamente a partir daquela posição e fazendo uma média das pontuações finais ( V/E/D ) que estas produzem
 
+*** Letra B ***
+
+-Big Data Analytics
+
+-Blockchain
+
 *** Letra C ***
 
 -ChatGPT
@@ -29,6 +35,10 @@ Avalia uma posição gerando um número de sequência de Lances ( playouts ) ale
 https://writesonic.com/chat
 
 *** Letra D ***
+
+-Data Lake
+
+-Data Warehouse
 
 -Deep Blue
 Supercomputador da IBM
@@ -42,6 +52,10 @@ Predecessor do Deep Blue
 
 -Google Hacking
 
+*** Letra H ***
+
+-Hadoop
+
 *** Heurística ***
 
 -Heurística
@@ -50,20 +64,35 @@ Alguns lances têm respostas naturais independentemente da posição
 -Heurística de Lance-Mortífero
 Um lance forte noutra variante semelhante é provável que seja forte aqui também
 
+*** Letra I ***
+
+-Iac ( Infraestrutura como Código )
+
 -Inteligência Artificial
 Capacidade de um sistema computacional / mecanismo para realizar tarefa que normalmente exigem inteligência humana, como raciocínio, aprendizado e adaptação a novas situações.
 
 *** Letra M ***
 
 -Machine Learning
+
+-Metadados
+
 -Mindjourney = Imagem
 Discord 
 -Minimax 
 Algoritmo que escolhe o lance que te dá mais vantagem, independente do lance do oponente
 
 -OpenAI
+
+*** Letra P ***
+
 -PlayGroundAI = Imagem
 https://playgroundai.com/
+-Pytorch
+Framework de Python
+
+-Pytorch Lightning
+Framework de Python
 
 *** Letra R ***
 
@@ -74,5 +103,12 @@ Rede que avalia posições
 
 *** Letra S ***
 
+-Spark
+
 -Stockfish
 Examinou 70 milhões de posições por segundo
+
+*** Letra T ***
+
+-Terraform
+-Transformers

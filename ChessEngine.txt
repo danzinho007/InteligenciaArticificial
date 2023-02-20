@@ -8,10 +8,17 @@ Nome ( Sigla )= Ano ( Rating )
 ² = Segundo a alcançar 3.000
 ³ = Terceiro a alcançar 3.000
 
+-65 Cyrus X :
+https://www.game-ai-forum.org/icga-tournaments/program.php?id=405
+https://www.youtube.com/watch?v=bztMwaFoIps
+
 Avant Garde
 
 *** Letra C ***
 -Chess 2001
+https://www.chessprogramming.org/Chess_2001
+Elo 1660
+
 -Chess Genius ( CG ) = 
 -Chess Machine ( CM ) = 1991 ( 2243 ) > 1993 ( 2318 )
 -Chess Tiger ( CT )
@@ -45,9 +52,19 @@ Genius ( G ) =
 -Glaurung (G ) = 
 
 *** Letra H ***
+-HCG 1900
+http://www.spacious-mind.com/html/computa_chess_hcg1900.html
+https://www.youtube.com/watch?v=8PzMlfJ1QCE&t
+
 HIARCS ( King ) = 2007² ( 3000 )
 -Houdini ( ) = 2010 ( 3193 )
 Junior ( Jr )  = 1997 ( 2379 )
+
+*** Letra L ***
+
+-Labirint 64 
+https://www.game-ai-forum.org/icga-tournaments/program.php?id=482
+
 Leonardo Maestro
 
 *** Letra M ***
