@@ -66,6 +66,12 @@ Um lance forte noutra variante semelhante é provável que seja forte aqui tamb�
 
 *** Letra I ***
 
+-IA Forte e IA Fraca
+-IA Fraca = Software que resolvem problemas específicos
+Ex : Programa que joga xadrez
+-IA Forte = Igual ou Superior ao Ser Humano
+Ex : Filme O Homem Bicentenário ( Robô que domina )
+
 -Iac ( Infraestrutura como Código )
 
 -Inteligência Artificial

@@ -39,9 +39,6 @@ Pra ser aprovado precisa ter 70% de Aproveitamento
 Se não for aprovado vai ter que esperar 30 dias
 Se for reprovado denovo vai ter que esperar 60 dias
 Se for reprovado denovo vai ter que refazer o curso
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c2Unit = OK
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c6Unit = OK
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81ccUnit = OK 
 https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = O que é IA ?
 
 *** Desenvolvendo Jogos ***
@@ -66,6 +63,11 @@ Piano Tiles
 https://www.youtube.com/watch?v=M2PKAHv8jqc = OK
 Pong 
 https://www.youtube.com/watch?v=EPKRQ_o21Q4 = OK
+
+*** Escola de Inteligência ***
+
+Rede Neural
+https://www.youtube.com/watch?v=mWD8wWwZpi8
 
 *** Hardware Redes Brasil ***
 Google Hacking

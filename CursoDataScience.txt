@@ -16,15 +16,20 @@ Pra ser aprovado precisa ter 70% de Aproveitamento
 Se não for aprovado vai ter que esperar 30 dias
 Se for reprovado denovo vai ter que esperar 60 dias
 Se for reprovado denovo vai ter que refazer o curso
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c2Unit = OK
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81c6Unit = OK
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63a0ea632f2d3b7bd20f81ccUnit = OK 
-https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = O que é IA ?
-Como a IA está impactando os Modelos de Negócio = OK
+
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = 
+
+Aulas :
+O que é IA ?
+Como a IA está impactando os Modelos de Negócios ? = OK
 Quem é o Engenheiro da IA = Ok 
 O que é ChatGPT = OK 
 Dorothy conversando com ChatGPT = OK
 Uma breve História da IA = OK
+Campos relacionados com a IA = OK
+Áreas de Pesquisas da IA = OK
+Modelos de IA = OK
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8e3af078f7039f05b353Unit
 
 Inteligência Artificial
 
@@ -37,10 +42,59 @@ Limitada a realizar tarefas específicas
 IA Forte
 Capaz de realizar qualquer tarefa intelectual que um ser humano possa realizar
 
-IA sendo usada em :
+-Vantagens da IA em :
+Automatização de Tarefas
+Análise de Dados
+Personalização
+Inovação
+
+-Engenheiro de IA ( Ciência da Computação e Matemática ): Pessoa que trabalha com tecnologias de IA pra projetar, desenvolver e implementar sistemas de IA
+
+-IA sendo usada em :
 Reconhecimento de voz
 Tradução de idiomas
 Condução Autônoma de Veículos
 Análise de Dados
 Diagnóstico Médico
+
+Tempo :
+1956 = IA
+1960 = Tradução de Texto
+1970 e 1980 = Reconhecimento de Voz
+1990 = Redes Neurais
+2000 = Assistentes Virtuais
+Dias atuais = ChatGPT
+
+Campos Relacionados com IA ( alguns ):
+Ciência da Computação
+Linguagem de Programação
+Matemática
+Estatística
+Machine Learning
+Linguística
+Robótica
+Filosofia
+Psicologia
+Sociologia
+
+Áreas de Pesquisa da IA :
+Aprendizado de Máquinas ( 3 tipos )
+Processamento de Linguagem Natural ( chatbox )
+Visão Computacional ( Interpretação de imagens e vídeos )
+Robótica ( Robôs )
+
+Modelos de IA :
+Ciência da Computação
+Medicina
+Finanças
+Segurança
+Engenharia
+
+Algoritmos que geram modelos de IA :
+Rede Neurais Feedforward e Redes Neurais Recorrentes
+Máquinas de Vetores de Suporte ( SVM )
+Florestas Aleatórias e Florestas de Decisão
+K-means e Agrupamento Hierárquico
+Regressão Linear e Logística
+Algoritmo de Aprendizado por Reforço
 
