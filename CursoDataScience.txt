@@ -19,19 +19,12 @@ Se for reprovado denovo vai ter que refazer o curso
 
 https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8bd8549c05625a05f02fUnit = 
 
-Aulas :
-O que é IA ?
-Como a IA está impactando os Modelos de Negócios ? = OK
-Quem é o Engenheiro da IA = Ok 
-O que é ChatGPT = OK 
-Dorothy conversando com ChatGPT = OK
-Uma breve História da IA = OK
-Campos relacionados com a IA = OK
-Áreas de Pesquisas da IA = OK
-Modelos de IA = OK
 https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=63cd8e3af078f7039f05b353Unit
 
 Inteligência Artificial
+
+Pai da IA = John McCarthy
+Conhecido pelos estudos no campo da inteligência artificial e por ser o criador da linguagem de programação Lisp
 
 -Inteligência Artificial
 Capacidade de um sistema computacional / mecanismo para realizar tarefa que normalmente exigem inteligência humana, como raciocínio, aprendizado e adaptação a novas situações.
@@ -48,7 +41,7 @@ Análise de Dados
 Personalização
 Inovação
 
--Engenheiro de IA ( Ciência da Computação e Matemática ): Pessoa que trabalha com tecnologias de IA pra projetar, desenvolver e implementar sistemas de IA
+-Engenheiro de IA ( Ciência da Computação e Matemática ): Pessoa que trabalha com tecnologias de IA pra projetar, desenvolver, implementar e testar sistemas de IA
 
 -IA sendo usada em :
 Reconhecimento de voz
@@ -97,4 +90,59 @@ Florestas Aleatórias e Florestas de Decisão
 K-means e Agrupamento Hierárquico
 Regressão Linear e Logística
 Algoritmo de Aprendizado por Reforço
+
+--------------------------------
+
+IA pode fazer :
+Realizar Tarefas Automatizadas
+Aprender por Si mesma
+Analisar Grandes Quantidades de Dados
+
+IA não pode fazer :
+Entender o Contexto
+Ser Criativa
+Replicar o Pensamento humano
+Pegar uma Folha de Alface
+
+Teste de Turing ( Alan Turing )
+The Imigation Game = Jogo de Imitação
+Computing Machine and Intelligence = Artigo de Turing 1950
+Filme Ex Machina
+
+ O Teste de Turing funciona da seguinte forma: um interrogador (humano) fará perguntas a duas entidades ocultas; uma delas é um humano e a outra é um computador. A comunicação entre o interrogador e as entidades é feita de modo indireto, pelo teclado, por exemplo. O interrogador tentará, através do “diálogo” realizado entre ele e as entidades, decidir qual dos dois é o humano. O computador será programado para se passar por humano e o humano responderá de forma a confirmar a sua condição. Se, no final do teste, o interrogador não conseguir distinguir quem é o humano, então conclui-se que o computador pode “pensar” segundo o Teste de Turing.
+
+Aprendizagem Humana vs Máquinas :
+
+Humana :
+Aquisição = Exposto
+Retenção = Concentração
+Recuperação = Utilização
+
+Máquina :
+Coleta e e Preparação de Dados
+Escolha do Algoritmo e Configuração
+Treinamento
+Avaliação
+Ajuste e Retreinamento se necessário
+Uso do modelo para previsões
+
+
+--------------------------------
+
+Machine Learning / Aprendizado de Máquina :
+
+É um campo da Ciência da Computação que se concentra em Criar sistemas que são Capazaes de Aprender a partir de um conjunto de dados, sem precisar de Programação Direta
+
+Aplicações :
+Reconhecimento de Voz
+Análise de Sentimentos
+Recomendação
+Detecção de Fraudes
+Previsões Empresariais
+
+Tipos :
+Aprendizado Supervisionado = Treinado com Conjunto de Dados
+Aprendizado Não Supervisionado = Treinado sem Nada, apenas com regras
+Aprendizado por Reforço = Treinador por série de ações e feedbacks, vão fazer pra ganhar Algoritmo
+Aprendizado Profundo = Treinado com camadas ocultas
 

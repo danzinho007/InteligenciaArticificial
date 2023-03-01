@@ -1,0 +1,17 @@
+Aulas :
+O que é IA ?
+Como a IA está impactando os Modelos de Negócios ? = OK
+Quem é o Engenheiro da IA = Ok 
+O que é ChatGPT = OK 
+Dorothy conversando com ChatGPT = OK
+Uma breve História da IA = OK
+Campos relacionados com a IA = OK
+Áreas de Pesquisas da IA = OK
+Modelos de IA = OK
+
+23/02/2023
+O que a IA pode e não pode fazer ?
+O que é Machine Learning
+Tipos de Aprendizado de Máquina
+
+https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial&unit=fundamentos-de-inteligencia-artificial_1675536569782_0Unit
