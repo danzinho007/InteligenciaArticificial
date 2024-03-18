@@ -2,6 +2,9 @@ Termos :
 
 *** Letra A ***
 
+-AGI = Inteligencia Artificial Geral 
+Ela mesmo vai aprender tudo 
+
 -AlphaGo
 
 -AlphaGoZero
@@ -22,7 +25,11 @@ Depois de fazer algo ele observa se ganhou algo, ele ganha uma recompensa, caso 
 Pesquisa de Árvore Monte Carlo ou MCST ( Monte Carlo Tree Search )
 Avalia uma posição gerando um número de sequência de Lances ( playouts ) aleatoriamente a partir daquela posição e fazendo uma média das pontuações finais ( V/E/D ) que estas produzem
 
+-Azure = 
+
 *** Letra B ***
+
+-Backpropagation = Tentativa e erro 
 
 -Big Data Analytics
 
@@ -35,6 +42,8 @@ Avalia uma posição gerando um número de sequência de Lances ( playouts ) ale
 https://writesonic.com/chat
 
 *** Letra D ***
+
+-Data Center = 
 
 -Data Lake
 
@@ -49,6 +58,8 @@ https://www.deepmind.com/
 Predecessor do Deep Blue
 
 *** Letra G ***
+
+-Gemini 1.5 = 
 
 -Google Hacking
 
@@ -88,23 +99,40 @@ Discord
 -Minimax 
 Algoritmo que escolhe o lance que te dá mais vantagem, independente do lance do oponente
 
+*** Letra N ***
+
+Neuronio = Funcao Linear
+
+*** Letra O ***
+
 -OpenAI
+
+-Overfitting = Excesso de treinamento 
 
 *** Letra P ***
 
+-Parâmetros = 
+
 -PlayGroundAI = Imagem
 https://playgroundai.com/
+
 -Pytorch
 Framework de Python
 
 -Pytorch Lightning
 Framework de Python
 
+*** Letra Q ***
+
+-Quantização = Se perde precisão pra ganhar espaço
+
 *** Letra R ***
 
 -Rede de Valores ( Value Network )
 Rede que avalia posições
--Redes Neural
+
+-Redes Neurais = Consegue aprender qualquer coisa, desde que seja treinada 
+
 -Reinforcemente Learning
 
 *** Letra S ***
@@ -114,7 +142,25 @@ Rede que avalia posições
 -Stockfish
 Examinou 70 milhões de posições por segundo
 
+-String = Cadeia de números
+
 *** Letra T ***
 
 -Terraform
+
+-Token = 
+
 -Transformers
+
+-Turing Complete = Qualquer algoritmo consegue resolver qualquer problema que o computador consegue
+
+*** Letra U ***
+
+-Universal Fuction Approximator = Qualquer rede neural pode corrigir qualquer problema tendo neurônias e camadas suficiente.
+
+*** Letra V ***
+
+-Vector Space Model = 
+-Vídeo = Cadeia de imagens
+
+udtobook.github.io/udlbook
