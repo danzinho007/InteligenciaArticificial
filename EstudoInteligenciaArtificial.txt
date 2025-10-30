@@ -1,34 +1,34 @@
 * Estudo Inteligencia Artificial - IA *
 
--Computação Natural 1960 :
---3 Formas de Implementação
+-Computaï¿½ï¿½o Natural 1960 :
+--3 Formas de Implementaï¿½ï¿½o
 --Ex :  Redes Neurais Artificiais (1943)
-	Inteligência de Enxame(1988)
-	Sistemas Imunológicos Artificiais(1999)
+	Inteligï¿½ncia de Enxame(1988)
+	Sistemas Imunolï¿½gicos Artificiais(1999)
 
--Inteligência Computacional 1994
+-Inteligï¿½ncia Computacional 1994
 --Redes Neurais Artificias (RNA)
 Ex : Mario Kart
---Computação Evolutiva (Algoritmo Genético)
+--Computaï¿½ï¿½o Evolutiva (Algoritmo Genï¿½tico)
 Ex : Geometria Fractal
---Lógica de Fuzzy
+--Lï¿½gica de Fuzzy
 
--Aprendizagem de Máquina 2007
+-Aprendizagem de Mï¿½quina 2007
 
--Machine Learning ( Aprendizado por Máquina ) :
+-Machine Learning ( Aprendizado por Mï¿½quina ) :
 Ser humano se intromete
 -Deep Learning ( Aprendizado Profundo ) :
-A máquina tenta por sozinho
+A mï¿½quina tenta por sozinho
 
---Aprendizagem não supervisionada
+--Aprendizagem nï¿½o supervisionada
 Consegue aprender sozinho
 Ex : 	Deep Blue ( Jogo :Xadrez ) e 
 	Alphago ( Jogo : Go )
 --Aprendizagem supervisionado 
-Ensina a máquina a jogar
+Ensina a mï¿½quina a jogar
 Ex :	Wazy ( Desvio de rota )
---Aprendizagem por reforço
-Testa a máquina de tempo em tempo
+--Aprendizagem por reforï¿½o
+Testa a mï¿½quina de tempo em tempo
 
 ------------------------------------------------------
 
@@ -45,4 +45,3 @@ Testa a máquina de tempo em tempo
 ---A------B--
 --C-D----G-H--
 -E---F--I---J-
-

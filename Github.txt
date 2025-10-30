@@ -8,4 +8,3 @@ do Xadrez Codificando :
 https://github.com/codificando-tech/chess-ai
 do Xadrez Randômico :
 https://github.com/lukasdev/engine-xadrez-randomico
-
