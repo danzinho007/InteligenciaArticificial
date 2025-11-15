@@ -1,6 +1,0 @@
-*** Didática Tech ***
-
-https://didatica.tech/o-que-e-machine-learning-aprendizado-de-maquina/ = OK
-https://didatica.tech/curso-introducao-a-machine-learning/ :
-Curso !!!
-Vídeo 01 = OK
